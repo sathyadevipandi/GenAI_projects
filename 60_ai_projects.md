@@ -1,7 +1,4 @@
-# 60+ Generative AI Projects for Your Resume
-
-Boost your resume with these amazing Generative AI project ideas, each designed to provide practical experience and highlight your skills with the latest technologies.
-
+# 60+ Generative AI Projects 
 Here's a breakdown of each project, relevant tutorials, and code to help you get started and the skills you'll develop.
 
 | **Multimodal LLM Applications**                                                                                                     | **LLM Fine-Tuning Projects**                                                                                                                     | **RAG (Retrieval Augmented Generation) Projects**                                                                                                                                        | **Agentic AI Projects**                                                                                                                            | **Music and Audio Generation Projects**                                                                                                         |
